@@ -16,3 +16,6 @@ My official portfolio telegram channel <a href="https:t.me/ShakhzodOff_Portfolio
 <code> <img src="https://camo.githubusercontent.com/fb79ddc4f0b2f54501ae33fd4404dc4738cce19deb229745ad37fde926b3f9e3/68747470733a2f2f75692d6c69622e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f31322f6e6578746a732d626f696c6572706c6174652d6c6f676f2e706e67" height="25" /> </code>
 <code> <img src="https://camo.githubusercontent.com/9b63aa91531c1bd3b4c437036b66b497403a64b6989958c65654afbfde1e3535/68747470733a2f2f63646e2e66726565626965737570706c792e636f6d2f6c6f676f732f6c617267652f32782f6772617068716c2d6c6f676f2d626c61636b2d616e642d77686974652e706e67" height="25" /> </code>
 
+- 📍 Current location: Samarkand, Uzbekistan
+- 📝  Ask me about anything, I am happy to help
+- 📨  How to reach me: [@shakhzod_makhammatov](https://www.instagram.com/shakhzod_makhammatov/)
